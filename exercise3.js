@@ -43,4 +43,3 @@ const sumOfN = (n) => {
 }
 
 sumOfN(19);
-
